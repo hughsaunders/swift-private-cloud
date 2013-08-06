@@ -169,7 +169,7 @@ Environment (minimum)
                 "swift_hash_prefix": "<some random string>"
             },
             "network": {
-                "managmenet": "<cidr of private management net>",
+                "management": "<cidr of private management net>",
                 "exnet": "<cidr of lb public net>"
             }
         }
